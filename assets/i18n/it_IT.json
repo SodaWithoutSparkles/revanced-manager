@@ -13,7 +13,7 @@
         "settingsTab": "Impostazioni"
     },
     "homeView": {
-        "widgetTitle": "Gestione",
+        "widgetTitle": "Bacheca",
         "updatesSubtitle": "Aggiornamenti",
         "patchedSubtitle": "Applicazioni Patchate",
         "updatesAvailable": "Aggiornamenti disponibili",
@@ -47,7 +47,7 @@
     "patcherView": {
         "widgetTitle": "Patcher",
         "patchButton": "Applica",
-        "patchDialogText": "Hai selezionato una patch di risorse ed è stato rilevato un file di installazione diviso (Split APK), quindi potrebbero verificarsi errori di patching.\nSei sicuro di voler procedere?"
+        "patchDialogText": "Hai selezionato una patch di risorse ed è stato rilevato un file d'installazione diviso (Split APK), quindi potrebbero verificarsi errori di patching.\nSei sicuro di voler procedere?"
     },
     "appSelectorCard": {
         "widgetTitle": "Seleziona un'applicazione",
@@ -78,9 +78,12 @@
         "viewTitle": "Seleziona patch",
         "searchBarHint": "Cerca patch",
         "doneButton": "Fatto",
-        "recommended": "Raccomandati",
+        "recommended": "Raccomandate",
+        "recommendedTooltip": "Seleziona tutte le patch consigliate",
         "all": "Tutte",
+        "allTooltip": "Seleziona tutte le patch",
         "none": "Nessuna",
+        "noneTooltip": "Deseleziona tutte le patch",
         "loadPatchesSelection": "Carica selezione patch",
         "noSavedPatches": "Nessuna patch salvata per l'app selezionata.\nPremi Fatto per salvare la selezione corrente.",
         "noPatchesFound": "Nessuna patch trovata per l'applicazione selezionata",
@@ -145,8 +148,6 @@
         "exportSectionTitle": "Importa / Esporta",
         "aboutLabel": "Informazioni",
         "snackbarMessage": "Copiato negli appunti",
-        "sentryLabel": "Log di Sentry",
-        "sentryHint": "Invia log anonimi per aiutarci a migliorare ReVanced Manager",
         "restartAppForChanges": "Riavvia l'app per applicare le modifiche",
         "deleteKeystoreLabel": "Elimina keystore",
         "deleteKeystoreHint": "Elimina il keystore usato per firmare l'applicazione",
